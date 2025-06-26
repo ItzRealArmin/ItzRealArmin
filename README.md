@@ -60,10 +60,13 @@ When I’m not hunting vulnerabilities, you’ll find me dreaming up new project
 ## 🏆 Achievements & Fun
 
 - ![Trophies](https://github-profile-trophy.vercel.app/?username=ItzRealArmin&theme=radical)
-- > “Talk is cheap. Show me the code.”  
-> — *Linus Torvalds*
+- 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ItzRealArmin&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <sub>👣 Thanks for stopping by! Don’t be a stranger—let’s build something amazing together.</sub>
